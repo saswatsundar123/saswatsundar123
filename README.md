@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/saswatsundar123"><img src="https://img.shields.io/github/followers/saswatsundar123?label=Followers&style=for-the-badge&color=2ecc71&logo=github" alt="GitHub Followers" /></a>
   <a href="mailto:saswatsundar123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white&color=3498db" alt="Email" /></a>
-  <a href="https://linkedin.com/in/saswat-sundar-laha-7b4478227"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/saswat-sundar-rath"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -74,7 +74,7 @@ While my primary engineering focus is on computational agriculture, I also apply
 I am always open to discussing digital agriculture, systems architecture, or open-source scientific computing.
 
 * **GitHub:** [saswatsundar123](https://github.com/saswatsundar123)
-* **LinkedIn:** [Saswat Sundar Laha](https://linkedin.com/in/saswat-sundar-rath)
+* **LinkedIn:** [Saswat Sundar Rath](https://linkedin.com/in/saswat-sundar-rath)
 * **Email:** [saswatsundar123@gmail.com](mailto:saswatsundar123@gmail.com)
 
 > *"We aren't just replacing field trials; we are providing the spatial environment that legacy models completely lack."*
