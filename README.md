@@ -1,7 +1,7 @@
-# 🌌 Hi! I am Saswat (the one behind CropForge)
+# 🌌 Hi! I am Saswat 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+the+Architect+behind+CropForge;Building+Scientific+Computing+Tools+for+Plant+Biology;Bridging+the+Gap+with+Computational+Physics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+the+Architect+behind+CropForge;Building+Scientific+Tools+for+Plant+Biology;Bridging+the+Gap+with+Computational+Physics" alt="Typing SVG" />
 </p>
 
 <p align="center">
